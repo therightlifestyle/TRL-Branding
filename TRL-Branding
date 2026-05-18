@@ -1,13 +1,14 @@
-TRL-Branding/
-│
-├── Logo/
-│   ├── trl-logo.svg
-│   └── trl-logo.png
-│
-├── Colors/
-│   └── palette.md
-│
-├── Fonts/
-│   └── typography.md
-│
-└── README.md
+# TRL Branding System
+
+This repository defines the official visual identity of TRL (The Right Lifestyle).
+
+## Purpose
+To maintain a consistent, scalable brand structure across all TRL digital assets.
+
+## Components
+- Logo assets
+- Color system
+- Typography rules
+
+## Status
+Actively evolving branding system.
